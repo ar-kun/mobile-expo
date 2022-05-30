@@ -1,0 +1,42 @@
+const Karyawan =[
+{id:'1',
+ nama:'Farel',
+ jabatan:'webmaster',   
+ email:'farel@ummi.ac.id',
+ phone:'0813452637654',
+ gaji:'5000000',
+ foto:'https://ibb.co/hZVpQNx'},
+ 
+{id:'2',
+ nama:'Delvia',
+ jabatan:'web programmer',
+ email:'Delvia@ummi.ac.id',
+ phone:'08131234567',
+ gaji:'5000000',
+ foto:'https://ibb.co/hZVpQNx'},
+ 
+{id:'3',
+ nama:'Dafa',
+ jabatan:'Front End Programmer',   
+ email:'Dafa@ummi.ac.id',       
+ phone:'0813452637654',
+ gaji:'5000000',
+ foto:'https://ibb.co/hZVpQNx'},
+{id:'4',
+ nama:'Asep',
+ jabatan:'Back End Programmer', 
+ email:'Asep@ummi.ac.id',
+ phone:'02669373648',
+ gaji:'5000000',
+ foto:'https://ibb.co/hZVpQNx'},
+ 
+{id:'5',
+ nama:'Sintia',
+ jabatan:'Full Stack Programmer', 
+ email:'Sintia@ummi.ac.id',
+ phone:'0266736484',
+ gaji:'5000000',
+ foto:'https://ibb.co/hZVpQNx'},
+];
+
+export default Karyawan;
